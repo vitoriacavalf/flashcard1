@@ -2,10 +2,6 @@
 import React from "react";
 // Importando os components necessários da lib react-materialize
 import { Row, Col, Card } from 'react-materialize';
-// Importando o avatar da empresa 1
-import mec from '../../images/mec.png';
-// Importando o avatar da empresa 1
-import company_avatar2 from '../../images/company2.png';
 
 const Home = () => ( 
   <Row>
